@@ -1,6 +1,6 @@
 package main
 
-func main13() {
+func main15() {
 	name := "Lady"
 
 	if name == "Randi" {
