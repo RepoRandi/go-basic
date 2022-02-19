@@ -1,6 +1,6 @@
 package main
 
-func main120() {
+func main21() {
 	sayHello()
 }
 
