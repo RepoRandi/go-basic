@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main20() {
 	sayHelloTo("John", "Doe")
 }
 
