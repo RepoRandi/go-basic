@@ -4,7 +4,7 @@ import "strings"
 
 type Filter func(string) string
 
-func main() {
+func main27() {
 	sayHelloWithFilter("Anjing", spamFilter)
 	sayHelloWithFilter("Jancok", spamFilter)
 	sayHelloWithFilter("Bambang", spamFilter)
