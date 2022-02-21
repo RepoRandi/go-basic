@@ -2,7 +2,7 @@ package main
 
 type BlackList func(string) bool
 
-func main() {
+func main28() {
 	blackList := func(name string) bool {
 		return name == "Anjing" || name == "Jancok"
 	}
