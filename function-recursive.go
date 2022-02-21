@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main29() {
 	println(factorialLoop(5))
 	println(factorialRecursive(5))
 }
