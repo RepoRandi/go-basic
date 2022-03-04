@@ -4,7 +4,7 @@ import (
 	"go-basic/helper"
 )
 
-func main() {
+func main45() {
 	name := "John"
 	helper.SayHello(name)
 }
