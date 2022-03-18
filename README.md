@@ -1,1 +1,1 @@
-# go-basic
+# go-basics
